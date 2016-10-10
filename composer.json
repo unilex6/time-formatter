@@ -1,0 +1,17 @@
+{
+    "name": "megapixel23/time-formatter",
+    "description": "Time Formatter",
+    "authors": [
+        {
+            "name": "MEGApixel23",
+            "email": "megapixel23@ya.ru"
+        }
+    ],
+    "version": "0.0.14-dev",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "TimeFormatter\\": "src"
+        }
+    }
+}
